@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: yellow
+}
+.item_1{
+    display: flex;
+    justify-content: space-around;
+}
+.contact{
+    width: 75%;
+    margin: 30px 10px;
+}
+.avatar{
+    width: 50%;
+    margin: 30px 10px 0px 10px;
+    
+}
+.thongtin{
+    border: 1px solid green;
+    width: 50%;
+    background-color: white;
+}
+.info{
+  
+    width: 50%;
+    height: 50%;  
+}
+.work{
+    
+    width: 80%;
+}
+.kinhnghiem{
+    border: 1px solid green;
+    width: 30%;
+    margin: 20px;
+    background-color: white;
+}
+.hocvan{
+    border: 1px solid green;
+    width: 30%;
+    margin: 20px;
+    background-color: white;
+}
+.hoatdong{
+    border: 1px solid green;
+    width: 30%;
+    margin: 20px;
+    background-color: white;
+}
+.cackynang{
+   border: 1px solid green;
+   width: 50%;
+   background-color: white; 
+}
+.nghenghiep{
+    border: 1px solid green;
+    width: 50%;
+    background-color: white;
+}
+.chichung{
+    border: 1px solid green;
+    width: 50%;
+    background-color: white;
+}
+.item_2{
+display: flex;
+margin: 40px 10px;
+}
+.muctieu{
+    width: 33%;
+}
+.kynang{
+    width: 33%;
+}
+.chungchi{
+    width: 33%;
+
+}
+
